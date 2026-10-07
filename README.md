@@ -50,3 +50,8 @@ The Dashboards shows business metrics from inception to date of PesaSmart Financ
 - Power BI Desktop (data modelling, DAX, visual design)
 - Python (pandas) for data cleaning in Google Colab
 - GitHub for version control
+
+## Repo Contents 
+ - PowerBI Report Files  (.pbix). Open the file using PowerBI to view the Dashboard. 
+ - Python Notebook (.ipynb) for data cleaning.
+ - This documentation file (README.md)
