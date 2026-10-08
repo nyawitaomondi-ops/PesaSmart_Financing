@@ -22,7 +22,7 @@ The Dashboards shows business metrics from inception to date of PesaSmart Financ
 
 ## Dashboard Preview
 ### Executive Summary
-<img width="581" height="328" alt="image" src="https://github.com/user-attachments/assets/0e504063-99fb-4844-83d4-eb04416d3578" />
+<img width="478" height="274" alt="image" src="https://github.com/user-attachments/assets/232144ea-c1ea-401d-a28a-81172a508779" />
 
 ### Disbursement and Collections (MoM & YoY)
 <img width="577" height="327" alt="image" src="https://github.com/user-attachments/assets/ab72d47d-9124-4de8-b836-8fcd0644ccc4" />
